@@ -1,0 +1,6 @@
+.cabecalho {
+    padding: 1em 0 1.5em 1.5em;
+    background-color: var(--cor-de-fundo);
+    font-size: 16px;
+    font-weight: 400;
+}
